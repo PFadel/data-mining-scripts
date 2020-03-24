@@ -1,4 +1,5 @@
 # data files
+*.json
 *.csv
 *.csv#
 
